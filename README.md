@@ -34,7 +34,7 @@ Explore the portfolio by opening index.html in a web browser.
 
 🌐 Live Demo
 
-Get to know me and my work through the live demo - 
+Get to know me and my work through the live demo - https://chula805.github.io/Portfolio-Website-05-10-23/
 
 📬 Feedback
 
